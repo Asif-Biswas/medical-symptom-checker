@@ -4,7 +4,7 @@ class DHIlabLogo extends Component {
     render() {
         return (<React.Fragment>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-          <circle cx="50" cy="50" r="50" fill="#0c5f96" />
+          <circle cx="50" cy="50" r="50" fill="#008080" />
           <path d="M0 50c0 27.614 22.386 50 50 50s50-22.386 50-50" fill="#0b5586" />
           <path
             d="M85 50h-1l.044.9q-.106 3.805-.866 7.3-2.128 8.977-9.174 15.94-4.77 4.784-10.585 7.27-6.158 2.647-13.43 2.656v.903q7.242-.012 13.43-2.56 6.184-2.546 11.264-7.625Q85 64.63 85 50.194V50z"

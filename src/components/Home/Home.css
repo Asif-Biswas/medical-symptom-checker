@@ -21,6 +21,6 @@
   width: 1rem;
 }
 .usa-checkbox__input:checked + .usa-checkbox__label::before {
-  /* background-color: #0c5f96; */
+  /* background-color: #008080; */
   outline: none;
 }

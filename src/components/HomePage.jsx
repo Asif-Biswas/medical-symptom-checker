@@ -229,9 +229,8 @@ class HomePage extends Component {
     const { tab_progress, button_is_disabled, patient_2_next_button_disabled, user_symptom_length, current_page } = this.state;
     return (
       <React.Fragment>
-        <Navbar />
         <main id="main-content">
-          <div className="grid-container padding-bottom-4">
+          <div style={{maxWidth: '100%'}} className="grid-container padding-bottom-4">
             <div className="grid-row padding-4">
               <div className="desktop:grid-col-2">
                 <ul className="side-menu-list padding-left-2">

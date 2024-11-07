@@ -3,7 +3,7 @@
   line-height: 1.7;
 }
 #Home h2 {
-  color: #005ea2;
+  color: #008080;
   transition: ease 0.2s;
 }
 /* ******** PATIENT CSS  end**********/
@@ -50,3 +50,7 @@ textarea:not([disabled]):focus {
   outline-offset: 0;
 } */
 /* *********PATIENT 2 CSS end **********/
+
+#range-slider:focus {
+  outline: none;
+}

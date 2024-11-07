@@ -11,7 +11,7 @@
 .searchSymptomsInput:focus {
   /* border-bottom: 1px solid #0a4b76; */
   outline: none !important;
-  border-bottom: 3px solid #0c5f96;
+  border-bottom: 3px solid #008080;
   transition: ease-in-out 0.2s;
 }
 
@@ -60,7 +60,7 @@ ul.symtomsListBox > li > button {
   /* float: left; */
 }
 .UserSymptoms > ul > li {
-  background-color: #0c5f96;
+  background-color: #008080;
   color: white;
   padding: 0.5rem;
   border-radius: 1rem;
